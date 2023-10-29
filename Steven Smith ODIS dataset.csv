@@ -1,0 +1,123 @@
+,Match No,Pos,Venue City,Ground,Opposition,Pitch,Avg_runs_last_5_match,4s_last_5_match,6s_last_5_match,Score_last_5_match,Runs_category
+0,ODI # 3002,7,Wales,Cardiff,England,Flat,19,27,2,318,medium
+1,ODI # 3003,7,England,Manchester,England,Damp,19,27,2,318,low
+2,ODI # 3004,7,London,The Oval,England,Grass,19,27,2,318,low
+3,ODI # 3011,7,London,Lord's,England,Grass,19,27,2,318,low
+4,ODI # 3065,7,Melbourne,Melbourne,Sri Lanka,Grass,28,25,1,242,low
+5,ODI # 3066,7,Sydney,Sydney,Sri Lanka,Grass,28,25,1,242,medium
+6,ODI # 3081,4,Melbourne,Melbourne,England,Grass,19,0,0,99,low
+7,ODI # 3083,7,Hobart,Hobart,England,Dead,11,0,0,58,low
+8,ODI # 3086,7,Sydney,Sydney,England,Grass,12,1,1,64,low
+9,ODI # 3089,7,Adelaide,Adelaide,England,Grass,18,1,1,92,medium
+10,ODI # 3091,7,Brisbane,Brisbane,England,Green,20,2,2,101,low
+11,ODI # 3094,8,Sydney,Sydney,England,Grass,19,2,2,96,low
+12,ODI # 3103,7,Ahmedabad,Ahmedabad,Zimbabwe,Green,21,15,2,108,low
+13,ODI # 3139,7,Colombo,Colombo (RPS),Pakistan,Dusty,56,20,1,231,low
+14,ODI # 3180,7,Hambantota,Hambantota,Sri Lanka,Turning,28,25,1,242,low
+15,ODI # 3208,5,Gqeberha,Gqeberha,South Africa,Damp,22,12,0,135,low
+16,ODI # 3280,6,London,Lord's,England,Grass,20,2,2,104,low
+17,ODI # 3286,5,England,Manchester,England,Damp,19,1,1,99,low
+18,ODI # 3319,5,Adelaide,Adelaide,Sri Lanka,Grass,28,25,1,242,low
+19,ODI # 3461,5,Perth,Perth,England,Grass,14,2,2,72,low
+20,ODI # 3513,6,Harare,Harare,Zimbabwe,Turning,21,15,2,108,low
+21,ODI # 3516,6,Harare,Harare,South Africa,Dry,22,12,0,135,medium
+22,ODI # 3522,3,Harare,Harare,South Africa,Dry,22,12,0,135,medium
+23,ODI # 3526,3,Harare,Harare,South Africa,Grass,22,12,0,135,low
+24,ODI # 3530,3,Sharjah,Sharjah,Pakistan,Flat,56,20,1,231,high
+25,ODI # 3532,3,Dubai,Dubai (DSC),Pakistan,Hard,56,20,1,231,low
+26,ODI # 3534,3,Abu Dhabi,Abu Dhabi,Pakistan,Dusty,56,20,1,231,high
+27,ODI # 3546,4,Perth,Perth,South Africa,Grass,22,0,0,113,low
+28,ODI # 3548,4,Canberra,Canberra,South Africa,Dusty,32,0,0,160,high
+29,ODI # 3549,4,Melbourne,Melbourne,South Africa,Grass,46,0,0,233,high
+30,ODI # 3551,4,Sydney,Sydney,South Africa,Grass,52,1,1,264,high
+31,ODI # 3578,4,Sydney,Sydney,England,Grass,17,2,2,85,medium
+32,ODI # 3582,4,Melbourne,Melbourne,India,Grass,77,16,2,161,medium
+33,ODI # 3589,3,Hobart,Hobart,England,Dry,37,3,3,187,high
+34,ODI # 3597,3,Perth,Perth,England,Grass,43,3,3,219,medium
+35,ODI # 3600,4,Melbourne,Melbourne,England,Grass,40,3,3,203,low
+36,ODI # 3617,5,Auckland,Auckland,New Zealand,Grass,20,16,3,186,low
+37,ODI # 3629,3,Sydney,Sydney,Sri Lanka,Grass,28,1,1,143,high
+38,ODI # 3642,3,Adelaide,Adelaide,Pakistan,Grass,56,2,2,280,high
+39,ODI # 3645,3,Sydney,Sydney,India,Grass,77,16,2,161,high
+40,ODI # 3646,3,Melbourne,Melbourne,New Zealand,Grass,20,16,3,186,medium
+41,ODI # 3680,3,Southampton,Southampton,England,Flat,45,3,3,228,medium
+42,ODI # 3681,3,London,Lord's,England,Green,52,2,2,261,high
+43,ODI # 3682,3,England,Manchester,England,Flat,36,1,1,184,low
+44,ODI # 3683,3,Leeds,Leeds,England,Grass,29,1,1,149,low
+45,ODI # 3684,3,England,Manchester,England,Dusty,31,1,1,156,low
+46,ODI # 3723,3,Perth,Perth,India,Grass,77,16,2,161,high
+47,ODI # 3724,3,Brisbane,Brisbane,India,Grass,77,16,2,161,medium
+48,ODI # 3725,3,Melbourne,Melbourne,India,Grass,77,4,4,388,medium
+49,ODI # 3726,4,Canberra,Canberra,India,Damp,78,7,7,392,medium
+50,ODI # 3727,3,Sydney,Sydney,India,Grass,63,5,5,315,low
+51,ODI # 3731,3,Auckland,Auckland,New Zealand,Dry,20,16,3,186,low
+52,ODI # 3733,3,Wellington,Wellington,New Zealand,Flat,20,16,3,186,low
+53,ODI # 3735,3,Hamilton,Hamilton,New Zealand,Bouncy,20,0,0,101,low
+54,ODI # 3740,4,Providence,Providence,West Indies,Flat,55,22,2,277,low
+55,ODI # 3741,4,Providence,Providence,South Africa,Grass,52,1,1,262,low
+56,ODI # 3743,4,Basseterre,Basseterre,South Africa,Flat,60,2,2,304,medium
+57,ODI # 3745,3,Basseterre,Basseterre,West Indies,Dead,55,22,2,277,high
+58,ODI # 3752,3,Bridgetown,Bridgetown,West Indies,Dry,55,22,2,277,high
+59,ODI # 3756,3,Bridgetown,Bridgetown,West Indies,Dead,55,22,2,277,medium
+60,ODI # 3768,3,Colombo,Colombo (RPS),Sri Lanka,Damp,37,1,1,189,medium
+61,ODI # 3769,3,Colombo,Colombo (RPS),Sri Lanka,Bouncy,37,1,1,186,medium
+62,ODI # 3785,3,Centurion,Centurion,South Africa,Dry,47,2,2,239,low
+63,ODI # 3787,3,Johannesburg,Johannesburg,South Africa,Turning,29,2,2,149,low
+64,ODI # 3790,3,Durban,Durban,South Africa,Green,38,2,2,190,high
+65,ODI # 3792,3,Gqeberha,Gqeberha,South Africa,Hard,40,2,2,203,low
+66,ODI # 3795,3,Cape Town,Cape Town,South Africa,Turning,30,1,1,151,low
+67,ODI # 3811,3,Sydney,Sydney,New Zealand,Grass,52,4,4,261,high
+68,ODI # 3812,3,Canberra,Canberra,New Zealand,Grass,55,5,5,277,high
+69,ODI # 3813,3,Melbourne,Melbourne,New Zealand,Grass,51,5,5,259,low
+70,ODI # 3817,3,Brisbane,Brisbane,Pakistan,Dusty,51,2,2,255,low
+71,ODI # 3818,3,Melbourne,Melbourne,Pakistan,Grass,42,0,0,214,high
+72,ODI # 3820,3,Perth,Perth,Pakistan,Grass,62,1,1,310,high
+73,ODI # 3822,3,Sydney,Sydney,Pakistan,Grass,56,1,1,282,medium
+74,ODI # 3826,3,Adelaide,Adelaide,Pakistan,Grass,44,1,1,221,low
+75,ODI # 3876,3,Birmingham,Birmingham,New Zealand,Damp,53,5,5,265,low
+76,ODI # 3885,3,Birmingham,Birmingham,England,Damp,33,0,0,168,medium
+77,ODI # 3910,3,Chennai,Chennai,India,Bouncy,33,3,3,167,low
+78,ODI # 3912,3,Kolkata,Eden Gardens,India,Turning,36,3,3,180,medium
+79,ODI # 3914,3,Indore,Indore,India,Flat,40,3,3,202,high
+80,ODI # 3917,4,Bangalore,Bengaluru,India,Hard,30,0,0,154,low
+81,ODI # 3919,3,Nagpur,Nagpur,India,Dry,28,0,0,142,low
+82,ODI # 3951,3,Melbourne,Melbourne,England,Grass,24,0,0,121,low
+83,ODI # 3958,3,Brisbane,Brisbane,England,Green,22,1,1,114,low
+84,ODI # 3960,4,Sydney,Sydney,England,Grass,30,1,1,154,medium
+85,ODI # 3966,4,Adelaide,Adelaide,England,Grass,29,1,1,146,low
+86,ODI # 3968,4,Perth,Perth,England,Grass,20,1,1,102,low
+87,ODI # 4152,4,Nottingham,Nottingham,West Indies,Green,55,2,2,277,high
+88,ODI # 4155,3,London,The Oval,India,Turning,42,1,1,210,high
+89,ODI # 4157,3,Taunton,Taunton,Pakistan,Green,46,1,1,231,low
+90,ODI # 4159,4,London,The Oval,Sri Lanka,Turning,48,2,2,241,high
+91,ODI # 4173,4,London,Lord's,England,Hard,23,1,1,117,medium
+92,ODI # 4178,4,London,Lord's,New Zealand,Green,49,5,5,249,low
+93,ODI # 4188,4,England,Manchester,South Africa,Damp,30,1,1,150,low
+94,ODI # 4191,3,Birmingham,Birmingham,England,Bouncy,36,0,0,184,high
+95,ODI # 4232,3,Rajkot,Rajkot,India,Damp,49,2,2,249,high
+96,ODI # 4233,3,Bangalore,Bengaluru,India,Dry,63,3,3,317,high
+97,ODI # 4248,3,Paarl,Paarl,South Africa,Green,42,1,1,212,high
+98,ODI # 4252,3,Bloemfontein,Bloemfontein,South Africa,Dry,23,0,0,117,low
+99,ODI # 4254,3,Potchefstroom,Potchefstroom,South Africa,Dry,23,0,0,116,low
+100,ODI # 4255,3,Sydney,Sydney,New Zealand,Grass,19,2,2,99,low
+101,ODI # 4265,3,Sydney,Sydney,India,Grass,83,7,7,419,high
+102,ODI # 4266,3,Sydney,Sydney,India,Grass,101,9,9,507,high
+103,ODI # 4267,3,Canberra,Canberra,India,Damp,89,8,8,445,low
+104,ODI # 4409,3,Pallekele,Pallekele,Sri Lanka,Green,57,2,2,286,medium
+105,ODI # 4412,3,Pallekele,Pallekele,Sri Lanka,Bouncy,48,1,1,242,low
+106,ODI # 4458,3,Townsville,Townsville,Zimbabwe,Green,21,15,2,108,medium
+107,ODI # 4459,3,Townsville,Townsville,Zimbabwe,Green,21,15,2,108,medium
+108,ODI # 4460,3,Townsville,Townsville,Zimbabwe,Turning,21,2,2,108,low
+109,ODI # 4461,3,Cairns,Cairns,New Zealand,Dusty,5,1,1,28,low
+110,ODI # 4462,3,Cairns,Cairns,New Zealand,Turning,17,2,2,89,high
+111,ODI # 4464,3,Cairns,Cairns,New Zealand,Flat,37,3,3,186,high
+112,ODI # 4475,3,Adelaide,Adelaide,England,Grass,43,1,1,219,high
+113,ODI # 4477,3,Sydney,Sydney,England,Grass,61,2,2,309,high
+114,ODI # 4480,3,Melbourne,Melbourne,England,Grass,63,2,2,318,low
+115,ODI # 4538,3,Mumbai,Wankhede,India,Damp,73,7,7,369,low
+116,ODI # 4545,3,Chennai,Chennai,India,Turning,47,6,6,238,low
+117,ODI # 4651,3,Mohali,Mohali,India,Green,34,3,3,174,medium
+118,ODI # 4654,3,Indore,Indore,India,Dead,14,1,1,70,low
+119,ODI # 4657,3,Rajkot,Rajkot,India,Dusty,27,2,2,137,high
+120,ODI # 4662,3,Chennai,Chennai,India,Turning,32,2,2,161,medium
+121,ODI # 4667,3,Lucknow,Lucknow,South Africa,Bouncy,27,0,0,135,low
